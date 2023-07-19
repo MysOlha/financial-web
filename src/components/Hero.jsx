@@ -1,5 +1,4 @@
 import React from 'react';
-// import Typed from "react-typed";
 
 const Hero = () => {
   return (
@@ -15,12 +14,6 @@ const Hero = () => {
           <p className="md:text-5xl sm:text-4xl text-xl font-bold">
             Fast, flexible financing for
           </p>
-          {/* <Typed
-            strings={["BTB", "BTC", "SASS"]}
-            typeSpeed={120}
-            backSpeed={140}
-            loop
-          /> */}
         </div>
       </div>
     </div>

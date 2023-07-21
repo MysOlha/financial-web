@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/financial-web/static/css/main.45b20626.css",
+    "main.js": "/financial-web/static/js/main.a2194b30.js",
+    "index.html": "/financial-web/index.html",
+    "main.45b20626.css.map": "/financial-web/static/css/main.45b20626.css.map",
+    "main.a2194b30.js.map": "/financial-web/static/js/main.a2194b30.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.45b20626.css",
+    "static/js/main.a2194b30.js"
+  ]
+}

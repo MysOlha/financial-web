@@ -16,8 +16,8 @@ const Hero = () => {
             Fast, flexible financing for
           </p>
           <TypeAnimation
-            className="md:text-5xl sm:text-4xl text-xl font-bold md:pl-4 pl-2 text-gray-500"
-            sequence={['BTB', 2000, 'BTC', 2000, 'SASS', 2000]}
+            className="md:text-5xl sm:text-4xl text-xl font-bold md:pl-4 py-2 text-gray-500"
+            sequence={['BTB', 1000, 'BTC', 1000, 'SASS', 1000]}
             speed={300}
             deletionSpeed={300}
             repeat={Infinity}

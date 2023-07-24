@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/financial-web/static/css/main.bb84baee.css",
-    "main.js": "/financial-web/static/js/main.f18e318a.js",
+    "main.css": "/financial-web/static/css/main.6e92ae9f.css",
+    "main.js": "/financial-web/static/js/main.aff2a50a.js",
     "static/media/laptop.jpg": "/financial-web/static/media/laptop.45ddf500e572fb2f1d35.jpg",
     "static/media/single.png": "/financial-web/static/media/single.20196aa3e7e7fa48f8f7.png",
     "static/media/double.png": "/financial-web/static/media/double.8be045e6bb88be63d414.png",
     "static/media/triple.png": "/financial-web/static/media/triple.4eb8f19f4b4647321484.png",
     "index.html": "/financial-web/index.html",
-    "main.bb84baee.css.map": "/financial-web/static/css/main.bb84baee.css.map",
-    "main.f18e318a.js.map": "/financial-web/static/js/main.f18e318a.js.map"
+    "main.6e92ae9f.css.map": "/financial-web/static/css/main.6e92ae9f.css.map",
+    "main.aff2a50a.js.map": "/financial-web/static/js/main.aff2a50a.js.map"
   },
   "entrypoints": [
-    "static/css/main.bb84baee.css",
-    "static/js/main.f18e318a.js"
+    "static/css/main.6e92ae9f.css",
+    "static/js/main.aff2a50a.js"
   ]
 }

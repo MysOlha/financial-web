@@ -18,12 +18,19 @@ const Navbar = () => {
         <li className="p-4">About</li>
         <li className="p-4">Contact</li>
       </ul>
-      <div onClick={handleNav} className="block md:hidden ">
-        {!nav ? <AiOutlineClose size={20} /> : <AiOutlineMenu size={20} />}
+      <div onClick={handleNav} className="block md:hidden relative">
+        {nav ? (
+          <AiOutlineClose
+            size={20}
+            className="fixed ml-[-24px] fill-[#00df9a]"
+          />
+        ) : (
+          <AiOutlineMenu size={20} className="ml-[-24px] fill-[#00df9a]" />
+        )}
       </div>
       <div
         className={
-          !nav
+          nav
             ? 'fixed left-0 top-0 w-[60%] h-full border-r border-r-gray-900 bg-[#000300] md:hidden ease-in-out duration-500 '
             : 'fixed left-[-100%]'
         }
